@@ -1,6 +1,6 @@
 import React from 'react';
 import './columnShowStyling.scss';
-import generationsVid from '../../media/GraphicsPage/IdleRPGMerchant.mp4';
+import generationsVid from '../../media/GraphicsPage/IdleRPGMerchantStrippedAudio.mp4';
 import videoWide from '../../media/ApplicationsPage/autoTraderShow.mp4';
 import terminal from '../../media/OtherWorkPage/TerminalShow.mp4';
 import { Link } from 'react-router-dom';
